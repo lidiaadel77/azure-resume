@@ -4,4 +4,8 @@ My own azure resume
 ## First steps
 
 - Frontend folder contains the website.
-- main.js contains visitor counter code.
+- main.js contains visitor counter
+
+```js
+const
+```
